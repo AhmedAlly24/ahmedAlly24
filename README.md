@@ -2,15 +2,15 @@
 
 <!--
 
-🔭 I’m currently working on building .
+-🔭 I’m currently working on building .
 
-👨🏾‍💻 All of my projects are available at .....
+-👨🏾‍💻 All of my projects are available at .....
 
-📝 I regularly write articles on https://annorcode.hashnode.dev/
+-📝 I regularly write articles on https://annorcode.hashnode.dev/
 
-📫 How to reach me Ahmedamiin006@gmail.com
+-📫 How to reach me Ahmedamiin006@gmail.com
 
-⚡ Fun fact: Traveling and playing video game.
+*⚡ Fun fact: Traveling and playing video game.
 
 
 
