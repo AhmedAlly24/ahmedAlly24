@@ -7,5 +7,6 @@
 - 📫 How to reach me: Ahmedamiin006@gmail.com
 - ⚡ Fun fact: ...
 
-   ** Connect with
+  **Connect with Me**:
+  !(https://www.linkedin.com/in/ahmed-ally-26b414214/)
   
