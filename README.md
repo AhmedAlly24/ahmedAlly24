@@ -1,4 +1,4 @@
-### Software Engineer | Frontend Web Developer 👋
+ Software Engineer | Frontend Web Developer 👋
 
 <!--
 
