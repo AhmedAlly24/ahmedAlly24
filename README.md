@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on building **My porfolio** . 
 
-- 👨🏾‍💻  All of my projects are available at [/](https://Ahmeed.io/)
+- 👨🏾‍💻  All of my projects are available at [website](https://mportfolio-site.netlify.app/)
 
 - 📫  How to reach me **Ahmedamiin006@gmail.com**
 
